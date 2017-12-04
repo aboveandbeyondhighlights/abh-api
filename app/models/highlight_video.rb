@@ -1,0 +1,2 @@
+class HighlightVideo < ApplicationRecord
+end
